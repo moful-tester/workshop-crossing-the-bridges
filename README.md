@@ -1,11 +1,11 @@
 # “Crossing The Bridge: AI-Driven Continuous Development”
 
-![](../../actions/workflows/0-crossing-prologue.yaml/badge.svg)
-![](../../actions/workflows/1-codespace-awakening.yaml/badge.svg)
-![](../../actions/workflows/2-summon-first-oracle.yaml/badge.svg)
-![](../../actions/workflows/3-call-second-oracle.yaml/badge.svg)
-![](../../actions/workflows/4-bridge-synthesis.yaml/badge.svg)
-![](../../actions/workflows/5-bridge-farewell.yaml/badge.svg)
+![](https://github.com/moful-tester/workshop-crossing-the-bridges/actions/workflows/0-crossing-prologue.yaml/badge.svg)
+![](https://github.com/moful-tester/workshop-crossing-the-bridges/actions/workflows/1-codespace-awakening.yaml/badge.svg)
+![](https://github.com/moful-tester/workshop-crossing-the-bridges/actions/workflows/2-summon-first-oracle.yaml/badge.svg)
+![](https://github.com/moful-tester/workshop-crossing-the-bridges/actions/workflows/3-call-second-oracle.yaml/badge.svg)
+![](https://github.com/moful-tester/workshop-crossing-the-bridges/actions/workflows/4-bridge-synthesis.yaml/badge.svg)
+![](https://github.com/moful-tester/workshop-crossing-the-bridges/actions/workflows/5-bridge-farewell.yaml/badge.svg)
 
 > Este repositório conduz você pelo workshop **Crossing The Bridge**, onde exploramos fluxos de trabalho de desenvolvimento contínuo impulsionados por IA.
 > A cada etapa, um conjunto de _workflows_ guia sua jornada — desde a preparação do Codespace até a comparação de respostas entre diferentes modelos e a conclusão da história.
@@ -32,8 +32,8 @@ Todo o fluxo é baseado no repositório de templates [lufomatics/reusable-worksh
 
 1. Clique no botão **`📠Prepare Workshop`** abaixo para iniciar seu repositório a partir deste template.
 
-   <a id="prepare-workshop" href="https://github.com/new?template_owner=lufomatics&template_name=workshop-crossing-the-bridge&owner=%40me&name=workshop-crossing-the-bridge&description=Workshop:+Crossing+The+Bridge&visibility=public">
-      <img src="https://img.shields.io/badge/📠_Prepare_Workshop-008000" height="25pt"/>
+   <a id="prepare-workshop">
+      <img src="https://img.shields.io/badge/📠_Prepare_Workshop-AAA" height="25pt"/>
    </a>
 
 2. Na nova aba, revise as opções preenchidas automaticamente:
@@ -49,8 +49,8 @@ Todo o fluxo é baseado no repositório de templates [lufomatics/reusable-worksh
 
 4. Clique no botão **`🚀Start Workshop`** abaixo, que irá te redirecionar para uma GitHub Issue que servirá como seu guia personalizado durante o workshop, acompanhando seu progresso e fornecendo instruções a cada passo concluído.
 
-   <a id="start-workshop">
-      <img src="https://img.shields.io/badge/🚀_Start_Workshop-AAA" height="25pt"/>
+   <a id="start-workshop" href="https://github.com/moful-tester/workshop-crossing-the-bridges/issues/1">
+      <img src="https://img.shields.io/badge/🚀_Start_Workshop-008000" height="25pt"/>
    </a>
 
 > [!TIP]

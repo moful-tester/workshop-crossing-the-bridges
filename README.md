@@ -11,7 +11,7 @@
 > A cada etapa, um conjunto de _workflows_ guia sua jornada — desde a preparação do Codespace até a comparação de respostas entre diferentes modelos e a conclusão da história.
 
 > [!NOTE]
-> Estado atual: <!--WORKSHOP_STATUS-->🌉 Preparando os sensores da ponte para a travessia inicial. Confira a issue do workshop para iniciar!<!--END_WORKSHOP_STATUS-->
+> Estado atual: <!--WORKSHOP_STATUS-->🚀 Sinal do Codespace recebido! Converse com o primeiro oráculo diretamente pela issue.<!--END_WORKSHOP_STATUS-->
 
 ---
 
